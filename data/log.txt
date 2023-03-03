@@ -8,4 +8,3 @@
 172.19.0.100 - - [20/Feb/2020:19:10:00 +0000] "GET /file/dog_mat HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (compatible)" "216.254.108.150"
 172.19.0.100 - - [20/Feb/2020:20:09:00 +0000] "GET /file/dog_mun HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (compatible)" "61.131.166.74"
 172.19.0.100 - - [20/Feb/2020:21:03:00 +0000] "GET /file/doggggg HTTP/1.1" 501 1024 "-" "Mozilla/5.0 (compatible)" "140.77.132.162"
-
